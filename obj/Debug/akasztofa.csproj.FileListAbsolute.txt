@@ -1,0 +1,7 @@
+D:\Házi\akasztofa\bin\Debug\akasztofa.exe.config
+D:\Házi\akasztofa\bin\Debug\akasztofa.exe
+D:\Házi\akasztofa\bin\Debug\akasztofa.pdb
+D:\Házi\akasztofa\obj\Debug\akasztofa.csprojAssemblyReference.cache
+D:\Házi\akasztofa\obj\Debug\akasztofa.csproj.CoreCompileInputs.cache
+D:\Házi\akasztofa\obj\Debug\akasztofa.exe
+D:\Házi\akasztofa\obj\Debug\akasztofa.pdb
